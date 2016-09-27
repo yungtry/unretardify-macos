@@ -6,3 +6,4 @@ fi
 
 defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false
 defaults write com.apple.finder AppleShowAllFiles YES
+defaults write NSGlobalDomain AppleShowAllExtensions -bool true
